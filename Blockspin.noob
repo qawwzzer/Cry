@@ -10,5 +10,5 @@ if Mode == "PVP" then
 elseif Mode == "FARM" then
     loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/54599f028da63cd2865575ad3b7d8c35dcff8e960c97d4e8c4933b0e968492a8/download"))()
 else
-    game:GetService("Players").LocalPlayer:Kick("Invalid Mode")
+    game:GetService("Players").LocalPlayer:Kick("Invalid Mode\n.gg/Cphtz7kuNy")
 end
